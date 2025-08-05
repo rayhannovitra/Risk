@@ -7,14 +7,6 @@ To build a dashboard for assessing and visualizing operational risk using Excel 
 
 ---
 
-## Folder Structure
-
-- `Dataset/` – Raw dataset used for this project (Excel)
-- `Excel_Analysis/` – Pivot table analysis done in Excel
-- `PowerBI_Dashboard/` – Interactive dashboard in Power BI (.pbix)
-
----
-
 ##  Tools Used
 
 - Microsoft Excel (PivotTables & formatting)
